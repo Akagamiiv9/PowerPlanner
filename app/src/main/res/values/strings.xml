@@ -1,0 +1,372 @@
+<resources>
+    <string name="app_name">PowerPlanner</string>
+
+    <string-array name="cw">
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Over Head Press</item>
+        <item>Over Head Press</item>
+        <item>Over Head Press</item>
+        <item>Over Head Press</item>
+        <item>Over Head Press</item>
+        <item>Over Head Press</item>
+        <item>Over Head Press</item>
+        <item>Over Head Press</item>
+        <item>Akcesoria: Ramiona</item>
+        <item>Akcesoria: Triceps</item>
+        <item>Akcesoria: Biceps</item>
+        <item>Akcesoria: Plecy</item>
+    </string-array>
+
+    <string-array name="se">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+    </string-array>
+
+    <string-array name="po">
+        <item>8x</item>
+        <item>6x</item>
+        <item>4x</item>
+        <item>4x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8+x</item>
+        <item>6x</item>
+        <item>5x</item>
+        <item>3x</item>
+        <item>5x</item>
+        <item>7x</item>
+        <item>4x</item>
+        <item>6x</item>
+        <item>8x</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="pr">
+        <item>65</item>
+        <item>75</item>
+        <item>85</item>
+        <item>85</item>
+        <item>85</item>
+        <item>8</item>
+        <item>75</item>
+        <item>7</item>
+        <item>65</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="cw2">
+        <item>Squat</item>
+        <item>Squat</item>
+        <item>Squat</item>
+        <item>Squat</item>
+        <item>Squat</item>
+        <item>Squat</item>
+        <item>Squat</item>
+        <item>Squat</item>
+        <item>Squat</item>
+        <item>Sumo Deadlift</item>
+        <item>Sumo Deadlift</item>
+        <item>Sumo Deadlift</item>
+        <item>Sumo Deadlift</item>
+        <item>Sumo Deadlift</item>
+        <item>Sumo Deadlift</item>
+        <item>Sumo Deadlift</item>
+        <item>Sumo Deadlift</item>
+        <item>Akcesoria: Nogi</item>
+        <item>Akcesoria: Brzuch</item>
+    </string-array>
+
+    <string-array name="se2">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+    </string-array>
+
+    <string-array name="po2">
+        <item>5x</item>
+        <item>3x</item>
+        <item>1+x</item>
+        <item>3x</item>
+        <item>3x</item>
+        <item>3x</item>
+        <item>5x</item>
+        <item>5x</item>
+        <item>5+x</item>
+        <item>5x</item>
+        <item>5x</item>
+        <item>3x</item>
+        <item>5x</item>
+        <item>7x</item>
+        <item>4x</item>
+        <item>6x</item>
+        <item>8x</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="pr2">
+        <item>75</item>
+        <item>85</item>
+        <item>95</item>
+        <item>9</item>
+        <item>85</item>
+        <item>8</item>
+        <item>75</item>
+        <item>7</item>
+        <item>65</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="cw3">
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>Bench Press</item>
+        <item>C.G. Bench Press</item>
+        <item>C.G. Bench Press</item>
+        <item>C.G. Bench Press</item>
+        <item>C.G. Bench Press</item>
+        <item>C.G. Bench Press</item>
+        <item>C.G. Bench Press</item>
+        <item>C.G. Bench Press</item>
+        <item>C.G. Bench Press</item>
+        <item>Akcesoria: Ramiona</item>
+        <item>Akcesoria: Triceps</item>
+        <item>Akcesoria: Biceps</item>
+    </string-array>
+
+    <string-array name="se3">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="po3">
+        <item>5x</item>
+        <item>3x</item>
+        <item>1+x</item>
+        <item>3x</item>
+        <item>3x</item>
+        <item>3x</item>
+        <item>5x</item>
+        <item>5x</item>
+        <item>5+x</item>
+        <item>5x</item>
+        <item>5x</item>
+        <item>3x</item>
+        <item>5x</item>
+        <item>7x</item>
+        <item>4x</item>
+        <item>6x</item>
+        <item>8x</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="pr3">
+        <item>75</item>
+        <item>85</item>
+        <item>95</item>
+        <item>9</item>
+        <item>85</item>
+        <item>8</item>
+        <item>75</item>
+        <item>7</item>
+        <item>65</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="cw4">
+        <item>Deadlift</item>
+        <item>Deadlift</item>
+        <item>Deadlift</item>
+        <item>Deadlift</item>
+        <item>Deadlift</item>
+        <item>Deadlift</item>
+        <item>Deadlift</item>
+        <item>Deadlift</item>
+        <item>Deadlift</item>
+        <item>Front Squat</item>
+        <item>Front Squat</item>
+        <item>Front Squat</item>
+        <item>Front Squat</item>
+        <item>Front Squat</item>
+        <item>Front Squat</item>
+        <item>Front Squat</item>
+        <item>Front Squat</item>
+        <item>Akcesoria: Plecy</item>
+        <item>Akcesoria: Brzuch</item>
+    </string-array>
+
+    <string-array name="se4">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="po4">
+        <item>5x</item>
+        <item>3x</item>
+        <item>1+x</item>
+        <item>3x</item>
+        <item>3x</item>
+        <item>3x</item>
+        <item>3x</item>
+        <item>3x</item>
+        <item>3+x</item>
+        <item>5x</item>
+        <item>5x</item>
+        <item>3x</item>
+        <item>5x</item>
+        <item>7x</item>
+        <item>4x</item>
+        <item>6x</item>
+        <item>8x</item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="pr4">
+        <item>75</item>
+        <item>85</item>
+        <item>95</item>
+        <item>9</item>
+        <item>85</item>
+        <item>8</item>
+        <item>75</item>
+        <item>7</item>
+        <item>65</item>
+        <item>35</item>
+        <item>45</item>
+        <item>55</item>
+        <item>55</item>
+        <item>55</item>
+        <item>55</item>
+        <item>55</item>
+        <item>55</item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <resources>
+        <!-- Base application theme. -->
+        <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+            <!-- set the size of action bar title . -->
+            <item name="android:textSize">12sp</item>
+        </style>
+    </resources>
+</selector>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PowerPlanner"
+        tools:targetApi="31">
+        <activity
+            android:name=".stoper"
+            android:exported="false" />
+        <activity
+            android:name=".ustawienia2"
+            android:exported="false" />
+        <activity
+            android:name=".ustawienia1"
+            android:exported="false" />
+        <activity
+            android:name=".p2d5"
+            android:exported="false" />
+        <activity
+            android:name=".p2d4"
+            android:exported="false" />
+        <activity
+            android:name=".p2d3"
+            android:exported="false" />
+        <activity
+            android:name=".p2d2"
+            android:exported="false" />
+        <activity
+            android:name=".p2d1"
+            android:exported="false" />
+        <activity
+            android:name=".p1w1d4"
+            android:exported="false" />
+        <activity
+            android:name=".p1w1d3"
+            android:exported="false" />
+        <activity
+            android:name=".recyclr111row"
+            android:exported="false" />
+        <activity
+            android:name=".p1w1d2"
+            android:exported="false" />
+        <activity
+            android:name=".p1w1d1"
+            android:exported="false" />
+        <activity
+            android:name=".p1w1"
+            android:exported="false" />
+        <activity
+            android:name=".plan2"
+            android:exported="false" />
+        <activity
+            android:name=".days4"
+            android:exported="false" />
+        <activity
+            android:name=".ustawienia"
+            android:exported="false" />
+        <activity
+            android:name=".twoje"
+            android:exported="false" />
+        <activity
+            android:name=".gotoweplany"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
